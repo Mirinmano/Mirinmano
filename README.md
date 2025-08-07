@@ -71,11 +71,7 @@
 </p>
 
 ### 🔐 Cybersecurity Tools  
-<p align="left">
-  <img src="https://www.kali.org/images/favicon/apple-touch-icon.png" height="40" width="40" alt="Kali Linux"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Metasploit_logo.png/600px-Metasploit_logo.png" height="40" width="40" alt="Metasploit"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wireshark_Logo.svg/768px-Wireshark_Logo.svg.png" height="40" width="40" alt="Wireshark"/>
-</p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Kali Linux (Debian-based)" title="Kali Linux (Debian-based)" /> <img src="https://seeklogo.com/images/M/metasploit-logo-A1AFA8E3D5-seeklogo.com.png" height="40" alt="Metasploit" title="Metasploit Framework" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Wireshark_icon.svg" height="40" alt="Wireshark" title="Wireshark" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Burp_Suite_logo.svg/512px-Burp_Suite_logo.svg.png" height="40" alt="Burp Suite" title="Burp Suite" /> </p>
 
 ---
 
