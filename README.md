@@ -1,92 +1,107 @@
-# 👋 Hello, I'm Mirin Mano M
+<h1 align="center">Hi there, I'm <span style="color:#4cc9f0;">Mirin Mano M</span> 👋</h1>
+<p align="center">🚀 Cybersecurity Enthusiast | 🧠 Full-Stack Developer | 🎓 CSE @ KCE '26</p>
 
-🎓 **Computer Science & Engineering (Cyber Security) Student**  
-📍 Coimbatore, India  
-📧 [mirinmano@gmail.com](mailto:mirinmano@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/mirin-mano-m-03708326a/) • [GitHub](https://github.com/Mirinmano) • [LeetCode](https://leetcode.com/u/Mirin_Mano_M)
+<p align="center">
+  <a href="mailto:mirinmano@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mirin-mano-m-03708326a/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/Mirinmano"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Mirin_Mano_M"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+</p>
 
 ---
 
 ## 🧠 About Me
 
-I'm a passionate cybersecurity enthusiast and full-stack developer, currently pursuing my B.E. in Computer Science and Engineering with a specialization in Cyber Security at Karpagam College of Engineering (expected 2026). I love solving real-world problems through code and exploring the intricate details of digital security.
-
----
-
-## 🛠️ Skills & Tools
-
-### 🧑‍💻 Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-
-### 🌐 Frameworks & Libraries  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-
-### 🛢️ Databases & Dev Tools  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
-### 🛡️ Cybersecurity Tools  
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat&logo=kalilinux&logoColor=white)  
-![Metasploit](https://img.shields.io/badge/Metasploit-3B9BCF?style=flat&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjZmZmIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHdpZHRoPSIyMCI+PHBhdGggZD0iTTEyIDEuNUM2LjI4IDEuNSA... (custom, can skip or use generic label)  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+🎓 I'm a Cyber Security undergraduate at Karpagam College of Engineering (2026)  
+💻 I love crafting full-stack apps and exploring ethical hacking  
+🛡️ Passionate about forensic analysis, bug bounties, and network protocols  
+📚 Solved 600+ LeetCode problems (DSA Wizard in progress...)
 
 ---
 
 ## 💼 Experience
 
-**Cybersecurity & Digital Forensics Intern** — *TechnoHacks*  
-*Oct 2024 – Nov 2024 (Remote)*  
-- 🔍 Performed vulnerability assessments with OWASP ZAP & Metasploit  
-- 🕵️‍♂️ Analyzed 2GB+ of network logs using Wireshark and created forensic reports  
+**Cybersecurity & Digital Forensics Intern @ TechnoHacks**  
+*Oct 2024 – Nov 2024*  
+🔍 Found & documented 5+ critical vulnerabilities using ZAP & Metasploit  
+📊 Analyzed >2GB of logs with Wireshark, wrote detailed forensic reports
 
 ---
 
-## 🚀 Projects
+## 💡 Featured Projects
 
-- **🎓 Student Portal** (React, Node, MongoDB)  
-  Full-stack MERN app with REST APIs, role-based access, <100ms response times
+### 🎓 Student Portal *(MERN Stack)*
+> Role-based access control, blazing-fast API response (<100ms), deployed on Vercel
 
-- **🛡️ File Integrity Checker** (Python, Tkinter)  
-  Desktop tool with SHA-256 & Pickle cache for efficient file verification
+### 🛡️ File Integrity Checker *(Python Desktop App)*
+> 10,000+ file watch with SHA-256 + Pickle caching → 95% faster validation
 
-- **📚 Department Library System** (HTML, CSS, PHP, MySQL)  
-  Digitized 2,000+ book records, reducing librarian work by 30%
+### 📚 Library Management System *(PHP + MySQL)*
+> Digitized 2,000+ books; reduced admin workload by 30%
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="40" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40" alt="CSS3"/>
+</p>
+
+### ⚙️ Frameworks & Libraries  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" height="40" width="40" alt="Bootstrap"/>
+</p>
+
+### 🗄️ Databases & Tools  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="GitHub"/>
+</p>
+
+### 🔐 Cybersecurity Tools  
+<p align="left">
+  <img src="https://www.kali.org/images/favicon/apple-touch-icon.png" height="40" width="40" alt="Kali Linux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Metasploit_logo.png/600px-Metasploit_logo.png" height="40" width="40" alt="Metasploit"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wireshark_Logo.svg/768px-Wireshark_Logo.svg.png" height="40" width="40" alt="Wireshark"/>
+</p>
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Top 5% National Rank** in NPTEL *Internet of Things* (91%)  
-- 🧪 Presented paper on network security at national conference  
-- 🛠️ Recognized for IPv6 protocol implementation at national level  
+- 🥇 **Top 5% National Rank** in NPTEL IoT (91%)  
+- 📜 Presented Network Security research @ National Conference  
+- 🧪 IPv6 protocol implementation praised at national event  
 
 ---
 
-## 👨‍💻 Community & LeetCode
+## 📈 GitHub Stats
 
-- 👾 President Team Member, **Cryptx Club** (Cybersecurity)  
-- 🧩 Solved **600+ problems** on LeetCode – boosting DSA proficiency  
-  [Check My LeetCode](https://leetcode.com/u/Mirin_Mano_M)
+![](https://github-readme-stats.vercel.app/api?username=Mirinmano&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Mirinmano&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirinmano&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
-📬 [mirinmano@gmail.com](mailto:mirinmano@gmail.com)  
 🌐 [LinkedIn](https://www.linkedin.com/in/mirin-mano-m-03708326a/)  
-💻 [GitHub](https://github.com/Mirinmano)
+📧 [Email](mailto:mirinmano@gmail.com)  
+👨‍💻 [GitHub](https://github.com/Mirinmano)  
+🎯 [LeetCode](https://leetcode.com/u/Mirin_Mano_M)
 
 ---
 
-⭐ *Thanks for visiting my GitHub! Feel free to check out my repositories and reach out for collaborations or discussions.*
+⭐ *Thanks for stopping by — drop a ⭐ on your favorite project or reach out to collaborate!*
