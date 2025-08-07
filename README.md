@@ -71,7 +71,13 @@
 </p>
 
 ### 🔐 Cybersecurity Tools  
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="40" alt="Kali Linux (Debian-based)" title="Kali Linux (Debian-based)" /> <img src="https://seeklogo.com/images/M/metasploit-logo-A1AFA8E3D5-seeklogo.com.png" height="40" alt="Metasploit" title="Metasploit Framework" /> <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Wireshark_icon.svg" height="40" alt="Wireshark" title="Wireshark" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" title="Linux" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Burp_Suite_logo.svg/512px-Burp_Suite_logo.svg.png" height="40" alt="Burp Suite" title="Burp Suite" /> </p>
+<p align="left">
+  <img src="https://cdn.simpleicons.org/kalilinux/557C94" height="40" title="Kali Linux" />
+  <img src="https://cdn.simpleicons.org/metasploit/3B9BCF" height="40" title="Metasploit" />
+  <img src="https://cdn.simpleicons.org/wireshark/1679A7" height="40" title="Wireshark" />
+  <img src="https://cdn.simpleicons.org/linux/000000" height="40" title="Linux" />
+  <img src="https://cdn.simpleicons.org/burpsuite/ff6600" height="40" title="Burp Suite" />
+</p>
 
 ---
 
@@ -86,8 +92,8 @@
 ## 📈 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Mirinmano&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Mirinmano&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mirinmano&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=Mirinmano&theme=dark&hide_border=false)
 
 ---
 
